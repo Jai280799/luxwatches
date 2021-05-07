@@ -1,0 +1,16 @@
+.banner {
+	width: 100%;
+}
+
+#heading{
+  font-size: 120px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.heading2{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 80px;
+}
